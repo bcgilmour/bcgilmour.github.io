@@ -9,7 +9,7 @@
 title: Testing Grounds
 email: b.c.gilmour@outlook.com
 description: > # this means to ignore newlines until "baseurl:"
-  What could potentially be a future static profile, but is currently a thing I get to fool around with.
+  Essentially a battlefield where all my CSS and HTML errors will accumulate and accelerate their own demise.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://bcgilmour.github.io" # the base hostname & protocol for your site
 twitter_username: [N/A]
